@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tcsavage-mcp-obsidian-index-badge.png)](https://mseep.ai/app/tcsavage-mcp-obsidian-index)
+
 # Obsidian Index MCP server
 
 An MCP server that provides a semantic search over an Obsidian vault and exposes recent notes as resources.
